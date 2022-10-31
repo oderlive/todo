@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/oderlive/todo.git/precache-manifest.3afde70cd9952d2a1ee5ccc3931f9936.js"
+  "/oderlive/todo.git/precache-manifest.2d397f47028a155586e0bb2c47ecfc3e.js"
 );
 
 workbox.clientsClaim();

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8a6281bd2f937fe7745e",
+    "revision": "69410426b7f3ea12306f",
     "url": "/oderlive/todo.git/static/css/main.dd79ee31.chunk.css"
   },
   {
-    "revision": "8a6281bd2f937fe7745e",
-    "url": "/oderlive/todo.git/static/js/main.8a6281bd.chunk.js"
+    "revision": "69410426b7f3ea12306f",
+    "url": "/oderlive/todo.git/static/js/main.69410426.chunk.js"
   },
   {
     "revision": "b26be9da27985059de63",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/oderlive/todo.git/static/js/runtime~main.56ec8a93.js"
   },
   {
-    "revision": "5c51e67c7e1c9daf5e8678b2f6b5cbab",
+    "revision": "b2cc28c95d5ae22b6f53880d338ada37",
     "url": "/oderlive/todo.git/index.html"
   }
 ];
